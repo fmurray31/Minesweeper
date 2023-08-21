@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class Minesweeper implements MouseListener {
+    // vertical and horizontal size of window
     private final int V_SIZE = 650;
     private final int H_SIZE = 550;
     static int rows;
